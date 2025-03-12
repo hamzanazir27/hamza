@@ -1,0 +1,7 @@
+Please create a simple favicon.png file for your website. You can:
+
+1. Use your initials "HN" with your brand colors
+2. Create a simple icon that represents your work
+3. Use a free favicon generator online
+
+Save the file as "favicon.png" in the assets folder and it will automatically be linked to your website. 
